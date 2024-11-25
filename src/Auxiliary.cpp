@@ -18,5 +18,5 @@ std::vector<std::string> Auxiliary::parseArguments(const std::string &line)
         arguments.push_back(argument);
     }
 
-    return arguments; // testss
+    return arguments; // hi dafana
 }
